@@ -1,0 +1,29 @@
+body {
+  margin: 10;
+  border-style: solid;
+  border-color: black;
+  padding: 30px;
+}
+
+header {
+  background-color: black;
+  color: white;
+  font-family: "Russo One", sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+
+nav li {
+  list-style: none;
+  display: inline-table;
+  margin-right: 32px;
+}
+
+a {
+  color: rgb(167, 167, 167);
+  text-decoration: none;
+}
+
+img {
+  cursor: not-allowed;
+}
